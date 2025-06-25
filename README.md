@@ -70,6 +70,35 @@ Contributions are welcome! If you have ideas for improvements, feel free to open
 
 Created with ❤️ by [Lakshitpythondevloper](https://github.com/Lakshitpythondevloper)
 
+## ASCII art for Game background 🎨: -
+``` python
+rock = '''
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+'''
+
+paper = '''
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+'''
+
+scissors = '''
+    _______
+---'   ____)____
+          ______)
+       __________)
+      (____)
+---.__(___)
+'''
+```
 ---
 
 Enjoy the game! 🎉
